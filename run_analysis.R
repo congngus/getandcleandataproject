@@ -34,11 +34,11 @@ createTidyDataFile <- function(name = "") {
     tidyData <- createTidyDataset(meanStd, activities, mergeData$subject)
 
     ## File Name.
-    name <- paste(name, ".csv")
+    name <- paste(name, ".txt")
 
     ## Write .csv tidy data file
     message("Creating file ...")
-    write.csv(tidyData, name , row.names=FALSE)
+    write.table(tidyData, name , row.names=FALSE)
     message("Finished!")
 }
 
