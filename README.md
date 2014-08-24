@@ -11,7 +11,8 @@ This data collected from the accelerometers from the Samsung Galaxy S smartphone
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-##Details
+##Script
+Call function createTidyDataFile("yourFileName"). To create tidy data file in working directory.
 
 See CodeBook.md for more details.
 
