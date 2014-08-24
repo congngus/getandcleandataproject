@@ -14,3 +14,5 @@ This funtion run these process.
 * Process: 4 Uses descriptive activity names to name the activities in the data set
 * Process: 5 Appropriately labels the data set with descriptive variable names. 
 * Process: 6 Creates a second, independent tidy data set with the average of each variable for each activity and each subject.
+
+See run_analysis.R for more details.
