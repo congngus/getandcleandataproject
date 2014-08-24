@@ -1,5 +1,4 @@
-Introduction
-============
+##Introduction
 
 The goal of this repo is to prepare tidy data that can be used for later analysis. 
 
@@ -12,8 +11,7 @@ This data collected from the accelerometers from the Samsung Galaxy S smartphone
 
 http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones 
 
-Script
-======
+##Details
 
 See CodeBook.md for more details.
 
