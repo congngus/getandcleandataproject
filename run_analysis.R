@@ -1,3 +1,5 @@
+library(plyr)
+
 ## Create .csv tidy data file with name in working directory.
 createTidyDataFile <- function(name = "") {
     message("Processing Please wait a moment !")
